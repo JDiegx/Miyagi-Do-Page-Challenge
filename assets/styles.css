@@ -1,0 +1,651 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    text-decoration: none;
+}
+
+.cont-header-general{
+    width: 100%;
+    height: 140px;
+    background-color: aliceblue;
+}
+.cont-header-general .header{
+    width: 100%;
+    height: 100px;
+    background-color: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-header-general a{
+    text-decoration: none;
+    color: white;
+}
+
+.h-logo{
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-header-general .header-button{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont-header-general .header-button .header-opcions{
+    width: 800px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.cont-header-general .header-button .header-opcions ul{
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    list-style: none;
+    cursor: pointer;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cont-header-general .header-button .header-opcions ul li{
+    margin-left: 30px;
+    font-weight: 500;
+    transition: font-weight 0.3s ease; 
+}
+
+.cont-header-general .header-button .header-opcions ul li:hover{
+    font-weight: 700;
+}
+
+main .section-n-1{
+    width: 100%;
+    height: 530px;
+    background-color: black;
+    background-image: url(/assets/img/backgroundsn1.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .section-n-1 .welcome{
+    width: 1050px;
+    height: 350px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+main .section-n-1 .welcome h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+
+main .section-n-1 .welcome p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+main .section-n-1 .welcome .cont-botton{
+    width: 100%;
+}
+
+.cont-botton button{
+    border: none;
+    padding: 5px 30px;
+    border-radius: 7px;
+    font-weight: 700;
+    background-color: white;
+    transition: font-weight 0.5s ease; 
+}
+
+.cont-botton button:hover{
+    background-color: rgba(255, 255, 255, 0.614);
+    transition: font-weight 0.5s ease; 
+}
+
+main .section-n-2{
+width: 100%;
+height: 1100px;
+background-color: black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+main .section-n-2 .cont-s-2-tittle{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+main .section-n-2 .cont-s-2-tittle h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+main .section-n-2 .cont-general{
+    width: 800px;
+    height: 100%;
+    color: white;
+}
+
+main .section-n-2 .cont-general h1{
+    font-size: 22px;
+    font-weight: 700;
+}
+main .section-n-2 .cont-general p{
+    width: 700px;
+    font-weight: 500;
+}
+
+main .section-n-3{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+main .section-n-4{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+main .section-n-4 .cont-tittle-showroom{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .section-n-4 .cont-tittle-showroom h1{
+    font-size: 90px;
+    font-weight: 700;
+}
+main .section-n-4 .cont-g-4{
+    width: 1000px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .section-n-4 .cont-g-4 .carousel{
+    width: 900px;
+}
+
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+footer .cont-logo-redes{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .cont-logo-redes .logo-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+footer .cont-logo-redes .cont-redes-f{
+    width: 320px;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+
+footer .cont-logo-redes .cont-redes-f svg{
+    color: white;
+    cursor: pointer;
+}
+
+.byjdiegx{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.byjdiegx img{
+    width: 150px;
+    cursor: pointer;
+}
+@media screen and (max-width: 354px) {
+    .cont-header-general .header .h-logo img {
+        width: 300px;
+    }
+    .cont-header-general .header-button {
+        width: 100%;
+    }
+    .scroll {
+        overflow-y: scroll;
+    }
+    .cont-header-general .header-button .header-opcions {
+        width: 500px;
+    }
+    .cont-header-general .header-button .header-opcions ul {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+        list-style: none;
+        cursor: pointer;
+        margin: 0%;
+        padding: 0%;
+    }
+    .cont-header-general .header-button .header-opcions ul li {
+        margin-left: 10px;
+        font-weight: 500;
+        transition: font-weight 0.3s ease;
+        font-size: 15px;
+    }
+    main .section-n-1 {
+        height: 450px;
+    }
+    main .section-n-1 .welcome {
+        width: 290px;
+        height: 350px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    main .section-n-1 .welcome h1 {
+        font-size: 35px;
+    }
+    main .section-n-1 .welcome p {
+        font-size: 13px;
+    }
+    main .section-n-2 {
+        height: 1900px;
+    }
+    main .section-n-2 .cont-s-2-tittle {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-2 .cont-s-2-tittle h1 {
+        font-size: 60px;
+    }
+    main .section-n-2 .cont-general {
+        width: 90%;
+        height: 100%;
+        color: white;
+    }
+    main .section-n-2 .cont-general h1 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+    main .section-n-2 .cont-general p {
+        width: 80%;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    main .section-n-3 {
+        overflow: hidden;
+    }
+    main .section-n-3 .cont-g-3 img {
+        width: 310px;
+    }
+    main .section-n-4 {
+        width: 100%;
+        height: 500px;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-4 .cont-g-4 {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    main .section-n-4 .cont-g-4 .carousel {
+        width: 100%;
+    }
+    main .section-n-4 .cont-tittle-showroom h1 {
+        font-size: 55px;
+        font-weight: 700;
+    }
+    footer {
+        width: 100%;
+        height: 300px;
+        background-color: black;
+    }
+    footer .cont-logo-redes {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    footer .cont-logo-redes .logo-footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    footer .cont-logo-redes .logo-footer img {
+        width: 250px;
+    }
+    footer .cont-logo-redes .cont-redes-f {
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 30px;
+    }
+    footer .cont-logo-redes .cont-redes-f svg {
+        color: white;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 355px) and (max-width: 600px) {
+    .cont-header-general .header-button {
+        width: 100%;
+    }
+    .scroll {
+        overflow-y: scroll;
+    }
+    .cont-header-general .header-button .header-opcions {
+        width: 500px;
+    }
+    .cont-header-general .header-button .header-opcions ul {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+        list-style: none;
+        cursor: pointer;
+        margin: 0%;
+        padding: 0%;
+    }
+    .cont-header-general .header-button .header-opcions ul li {
+        margin-left: 10px;
+        font-weight: 500;
+        transition: font-weight 0.3s ease;
+        font-size: 15px;
+    }
+    main .section-n-1 .welcome {
+        width: 330px;
+        height: 350px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    main .section-n-1 .welcome h1 {
+        font-size: 40px;
+    }
+    main .section-n-1 .welcome p {
+        font-size: 13px;
+    }
+    main .section-n-2 {
+        height: 1700px;
+    }
+    main .section-n-2 .cont-s-2-tittle {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-2 .cont-s-2-tittle h1 {
+        font-size: 75px;
+    }
+    main .section-n-2 .cont-general {
+        width: 90%;
+        height: 100%;
+        color: white;
+    }
+    main .section-n-2 .cont-general h1 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+    main .section-n-2 .cont-general p {
+        width: 80%;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    main .section-n-4 {
+        width: 100%;
+        height: 600px;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-4 .cont-g-4 {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    main .section-n-4 .cont-g-4 .carousel {
+        width: 100%;
+    }
+    main .section-n-4 .cont-tittle-showroom h1 {
+        font-size: 55px;
+        font-weight: 700;
+    }
+    footer {
+        width: 100%;
+        height: 300px;
+        background-color: black;
+    }
+    footer .cont-logo-redes {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    footer .cont-logo-redes .logo-footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    footer .cont-logo-redes .logo-footer img {
+        width: 250px;
+    }
+    footer .cont-logo-redes .cont-redes-f {
+        width: 320px;
+        height: 60px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 30px;
+    }
+    footer .cont-logo-redes .cont-redes-f svg {
+        color: white;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 901px) {
+    .cont-header-general .header-button .header-opcions ul {
+        width: 700px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+        list-style: none;
+        cursor: pointer;
+        margin: 0%;
+        padding: 0%;
+    }
+    .cont-header-general .header-button .header-opcions ul li {
+        margin-left: 30px;
+        font-weight: 500;
+        transition: font-weight 0.3s ease;
+        font-size: 15px;
+    }
+    main .section-n-1 .welcome {
+        width: 550px;
+        height: 350px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    main .section-n-1 .welcome h1 {
+        font-size: 65px;
+    }
+    main .section-n-2 .cont-s-2-tittle {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-2 .cont-s-2-tittle h1 {
+        font-size: 75px;
+    }
+    main .section-n-2 .cont-general {
+        width: 90%;
+        height: 100%;
+        color: white;
+    }
+    main .section-n-2 .cont-general h1 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+    main .section-n-2 .cont-general p {
+        width: 80%;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    main .section-n-4 {
+        width: 100%;
+        height: 600px;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-4 .cont-g-4 {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    main .section-n-4 .cont-g-4 .carousel {
+        width: 550px;
+    }
+    main .section-n-4 .cont-tittle-showroom h1 {
+        font-size: 70px;
+        font-weight: 700;
+    }
+}
+
+@media screen and (min-width: 902px) and (max-width: 981px) {
+    main .section-n-1 .welcome {
+        width: 700px;
+        height: 350px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    main .section-n-2 .cont-s-2-tittle {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    main .section-n-4 .cont-g-4 {
+        width: 100%;
+        height: 450px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: antiquewhite;
+    }
+    main .section-n-4 .cont-g-4 .carousel {
+        width: 700px;
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1169px) {
+    main .section-n-1 .welcome {
+        width: 800px;
+        height: 350px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 1170px) and (max-width: 1375px) {
+}
+
+@media screen and (min-width: 1282px) {
+}

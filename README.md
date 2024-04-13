@@ -7,6 +7,7 @@ Este proyecto es la solucion al reto página para el señor Miyagi, en su escuel
 
 ## Descripción
 ¡Bienvenido/a a la solución del reto de Miyagi-Do Karate! Este proyecto es la respuesta al desafío planteado por el Sr. Miyagi para crear un sitio web para su nuevo dojo en Medellín.
+
 Miyagi-Do Karate es más que una simple escuela de artes marciales; es una filosofía de vida. Fundada por el legendario Sr. Miyagi, nuestra escuela se enfoca en enseñar no solo las técnicas de autodefensa del karate, sino también los valores fundamentales del respeto, la disciplina y la superación personal.
 
 ## Capturas de Pantalla

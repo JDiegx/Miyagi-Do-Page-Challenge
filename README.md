@@ -15,6 +15,12 @@ Miyagi-Do Karate es más que una simple escuela de artes marciales; es una filos
   <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/4569e802-f95c-4d3f-9b21-b616c014b0cd" alt="Captura de Pantalla 2" width="200">
 </div>
 
+# Team 3
+Juan Diego S
+Felipe Gonzaeles
+Julian Lopera
+Diego Ramirez 
+
 ## ¿Interesado en trabajar juntos?
 
 Si te apasiona el karate y te gusta nuestro proyecto, ¡únete a nosotros! Si tienes propuestas de colaboración o ideas similares, no dudes en ponerte en contacto. Puedes encontrarme en mi perfil de [GitHub](https://github.com/tuusuario) o mediante correo electrónico: tuemail@example.com.

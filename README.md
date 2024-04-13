@@ -16,10 +16,10 @@ Miyagi-Do Karate es más que una simple escuela de artes marciales; es una filos
 </div>
 
 # Team 3
-Juan Diego S
-Felipe Gonzaeles
-Julian Lopera
-Diego Ramirez 
+- Juan Diego S
+- Felipe González
+- Julián Lopera
+- Diego Ramírez
 
 ## ¿Interesado en trabajar juntos?
 

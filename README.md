@@ -12,7 +12,7 @@ Miyagi-Do Karate es más que una simple escuela de artes marciales; es una filos
 
 ## Capturas de Pantalla
 <div align="center">
-  <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/c99c357f-c233-4dc7-9060-814fe6e3212b" alt="Captura de Pantalla 1" width="800">
+  <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/c99c357f-c233-4dc7-9060-814fe6e3212b" alt="Captura de Pantalla 1" width="700">
   <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/4569e802-f95c-4d3f-9b21-b616c014b0cd" alt="Captura de Pantalla 2" width="200">
 </div>
 

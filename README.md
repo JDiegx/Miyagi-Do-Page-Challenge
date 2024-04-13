@@ -14,7 +14,25 @@ Miyagi-Do Karate es más que una simple escuela de artes marciales; es una filos
   <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/c99c357f-c233-4dc7-9060-814fe6e3212b" alt="Captura de Pantalla 1" width="800">
   <img src="https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/4569e802-f95c-4d3f-9b21-b616c014b0cd" alt="Captura de Pantalla 2" width="200">
 </div>
+## Características
 
+### Secciones
+- **Página Inicial:** Presenta información básica sobre el dojo y proporciona acceso a otras secciones.
+- **Formulario de Inscripción:** Permite a los usuarios ingresar información personal y de contacto, así como detalles sobre sus conocimientos previos en karate.
+- **Confirmación de Envío de Información:** Muestra un mensaje de éxito después de enviar el formulario de inscripción.
+- **Galería de Fotos del Nuevo Dojo:** Muestra imágenes del nuevo dojo, proporcionando una vista previa del espacio.
+- **Quiénes Somos:** Presenta información sobre cada integrante del equipo.
+
+### Formulario de Inscripción
+- Permite el ingreso de información personal relevante, con validaciones para asegurar la correcta presentación de datos.
+- Maneja casos de menores de edad, solicitando información de un adulto responsable en todas las clases.
+- Guarda la información en una base de datos para su posterior consulta.
+
+### Concepto Visual
+- Diseñado para ser visible correctamente en dispositivos móviles, con un diseño adaptativo.
+- Implementa animaciones CSS en elementos seleccionados para mejorar la experiencia del usuario.
+- El contenido está estructurado semánticamente para mejorar la accesibilidad y el SEO.
+  
 # Team 3
 - Juan Diego S
 - Felipe González

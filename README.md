@@ -1,8 +1,10 @@
-# Miyagi-Do Karate
+# Miyagi-Do Karate Challenge 
 
-![Miyagi-Do Karate](miyagi-do-logo.png)
+![Miyagi-Do Karate](https://github.com/JDiegx/Miyagi-Do-Page-Challenge/assets/147659518/4b1768cb-8082-438a-8295-2aa8c9186e08)
 
-Este proyecto es la página oficial de Miyagi-Do Karate, diseñada para proporcionar una experiencia óptima en dispositivos móviles.
+
+Este proyecto es la página oficial de Miyagi-Do Karate, diseñada para p![Uploading logomiyaguiwhite.png…]()
+roporcionar una experiencia óptima en dispositivos móviles.
 
 ## Descripción
 
